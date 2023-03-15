@@ -1,0 +1,4 @@
+.Box {
+    box-sizing: content-box;
+    max-width: 300px;
+  }

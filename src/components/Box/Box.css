@@ -1,0 +1,17 @@
+.Box-item {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.Box-bg-yellow {
+    background-color: rgb(250, 217, 67);
+}
+
+.Box-bg-green {
+    background-color: green;
+}
+
+.Box-bg-blue {
+    background-color: blue;
+}

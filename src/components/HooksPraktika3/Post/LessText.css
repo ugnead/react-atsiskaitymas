@@ -1,0 +1,14 @@
+.Post {
+    background-color: rgb(245, 243, 243);
+    border-radius: 5px;
+    padding: 20px 20px 4px;
+    margin-top: 20px;
+}
+
+.Button {
+    background-color: transparent;
+    color: rgb(2, 2, 249);
+    text-decoration: underline;
+    font-size: 11px;
+    border: none;
+}
